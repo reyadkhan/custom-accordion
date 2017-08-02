@@ -1,0 +1,101 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NeoSansStd-Bold
+FamilyName:Neo Sans Std
+StyleName:Bold
+MenuName:Neo Sans Std
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Neo Sans Std Bold
+WritingScript:Roman
+OutlineFileName:\NeoSansStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:71148
+FileModTime:1483979314
+NameArray:0,Mac,4,Neo Sans Std Bold
+NameArray:0,Win,1,Neo Sans Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NeoSansStd-Light
+FamilyName:Neo Sans Std
+StyleName:Light
+MenuName:Neo Sans Std Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Neo Sans Std Light
+WritingScript:Roman
+OutlineFileName:\NeoSansStd-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:68020
+FileModTime:1483979177
+NameArray:0,Mac,4,Neo Sans Std Light
+NameArray:0,Win,1,Neo Sans Std Light
+NameArray:0,Win,16,Neo Sans Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NeoSansStd-Medium
+FamilyName:Neo Sans Std
+StyleName:Medium
+MenuName:Neo Sans Std Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Neo Sans Std Medium
+WritingScript:Roman
+OutlineFileName:\NeoSansStd-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:71048
+FileModTime:1491556008
+NameArray:0,Mac,4,Neo Sans Std Medium
+NameArray:0,Win,1,Neo Sans Std Medium
+NameArray:0,Win,16,Neo Sans Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NeoSansStd-Regular
+FamilyName:Neo Sans Std
+StyleName:Regular
+MenuName:Neo Sans Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Neo Sans Std
+WritingScript:Roman
+OutlineFileName:\NeoSansStd-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:69340
+FileModTime:1491556011
+NameArray:0,Mac,4,Neo Sans Std
+NameArray:0,Win,1,Neo Sans Std
+%EndFont
+

@@ -1,0 +1,179 @@
+@font-face {
+    font-family: neoRegular;
+    src: url(../fonts/NeoSansStd-Regular.otf);
+}
+@font-face {
+    font-family: neoLight;
+    src: url(../fonts/NeoSansStd-Light.otf);
+}
+@font-face {
+    font-family: neBold;
+    src: url(../fonts/NeoSansStd-Bold.otf);
+}
+@font-face {
+    font-family: neMedium;
+    src: url(../fonts/NeoSansStd-Medium.otf);
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	padding-top: 50px;
+	height: 100%;
+	width: 100%;
+	background-image: url(../images/back.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+      
+#mainFrame{
+	position: relative;
+	width:50%;
+	margin:auto;
+}
+
+#mainFrame{
+	position:relative;
+	overflow: visible;
+}	  
+#mainFrame:before{
+	content: "";
+	position: absolute;
+	height: 95%;
+	width: 0;
+	border-left: 1px solid #f07d00;
+	left: -28px;
+	top: 5px;
+	
+}
+#mainFrame h3{
+	position: relative;
+	margin-top: 0;
+	border-radius: 0;
+	font-family: neoRegular;
+	
+}
+#mainFrame h3.ui-state-active{
+	background: #fff !important;
+	border: none;
+	color: #000;
+}
+
+#mainFrame div{
+	border: none;
+	background: #fff;
+}
+#mainFrame h3:before{
+	content: "";
+	position: absolute;
+	height: 2em;
+	width: 2em;
+	border-radius: 1em;
+	background-color: #f07d00;
+	left: -45px;
+	top: 0px;
+	
+}
+#mainFrame h3:focus{
+	outline: none;
+}
+
+#mainFrame h3 span:before{
+	position: absolute;
+	color: #fff;
+	left: -34px;
+	top: 6px;
+	
+}
+#mainFrame h3.one span:before{
+	content: "1";
+}
+#mainFrame h3.two span:before{
+	content: "2";
+}
+#mainFrame h3.three span:before{
+	content: "3";
+}
+#mainFrame h3.four span:before{
+	content: "4";
+}
+#mainFrame h3.five span:before{
+	content: "5";
+}
+#mainFrame h3.six span:before{
+	content: "6";
+}
+#mainFrame h3.seven span:before{
+	content: "7";
+}
+
+#mainFrame h3.one{
+	background: #ececec;
+}
+#mainFrame h3.two{
+	background: #ececec;
+}
+#mainFrame h3.three{
+	background: #e3e3e3;
+}
+#mainFrame h3.four{
+	background: #dadada;
+}
+#mainFrame h3.five{
+	background: #d0d0d0;
+}
+#mainFrame h3.six{
+	background: #c6c6c6;
+}
+#mainFrame h3.seven{
+	background: #bdbcbc;
+}
+#mainFrame h3.leaveClass.ui-accordion-header-collapsed{
+	background: #0f9591 !important;
+	border-color: #fff;
+	color: #fff;
+	content: "New Content Put Here";
+}
+#mainFrame h3.seven.leaveClass.ui-accordion-header-collapsed{
+	background: #bdbcbc !important;
+	font-family: neoLight;
+}
+/* #mainFrame h3.leaveClass.ui-accordion-header-collapsed span:after{
+	content: "New Content Put Here";
+} */
+
+
+#mainFrame h3.leaveClass.ui-accordion-header-collapsed:before{
+	background: #0f9591 !important;
+}
+
+#mainFrame h3.seven.leaveClass.ui-accordion-header-collapsed:before{
+	background: #f07d00 !important;
+}
+
+#mainFrame h3.leaveClass.ui-accordion-header-collapsed:after{
+	content:"+";
+	right: 10px;
+	position: absolute;
+	background-color: #ffe505;
+	border-radius: 50%;
+	text-align: center;
+	height: 22px;
+	width: 22px;
+}
+
+#mainFrame h3.leaveClass.ui-accordion-header-collapsed span:before{
+	content: "V";
+	color: #ffe505;
+}
+
+
+
+
+
+
+
+
+
+
